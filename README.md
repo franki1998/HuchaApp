@@ -67,7 +67,11 @@ Más en [docs/TECH.md](docs/TECH.md).
 
 ## Capturas
 
-Pronto en [assets/screenshots](assets/screenshots/).
+| Resumen de una hucha                             | Nuevo gasto                                        | Personas                                     |
+| ------------------------------------------------ | -------------------------------------------------- | -------------------------------------------- |
+| ![Resumen](assets/screenshots/resumen-hucha.png) | ![Nuevo gasto](assets/screenshots/nuevo-gasto.png) | ![Personas](assets/screenshots/personas.png) |
+
+Capturas de la versión interna en desarrollo (emulador Android, datos de prueba).
 
 ## Principios
 

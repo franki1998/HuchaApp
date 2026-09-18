@@ -1,3 +1,3 @@
 # Capturas
 
-Aquí se publicarán capturas de la aplicación a medida que la interfaz se estabilice.
+Capturas de la versión interna (emulador Android, datos ficticios). Se irán actualizando a medida que la interfaz se estabilice.
