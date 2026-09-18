@@ -67,11 +67,15 @@ Más en [docs/TECH.md](docs/TECH.md).
 
 ## Capturas
 
-| Resumen de una hucha                             | Nuevo gasto                                        | Personas                                     |
-| ------------------------------------------------ | -------------------------------------------------- | -------------------------------------------- |
-| ![Resumen](assets/screenshots/resumen-hucha.png) | ![Nuevo gasto](assets/screenshots/nuevo-gasto.png) | ![Personas](assets/screenshots/personas.png) |
+| Tus huchas                               | Una hucha                                        | Nuevo gasto                                        |
+| ---------------------------------------- | ------------------------------------------------ | -------------------------------------------------- |
+| ![Huchas](assets/screenshots/huchas.png) | ![Resumen](assets/screenshots/resumen-hucha.png) | ![Nuevo gasto](assets/screenshots/nuevo-gasto.png) |
 
-Capturas de la versión interna en desarrollo (emulador Android, datos de prueba).
+| Detalle de un gasto con ticket         | Actividad                                      |
+| -------------------------------------- | ---------------------------------------------- |
+| ![Gasto](assets/screenshots/gasto.png) | ![Actividad](assets/screenshots/actividad.png) |
+
+Capturas de la versión interna en desarrollo (emulador Android, datos de prueba; 18 de septiembre de 2026).
 
 ## Principios
 
