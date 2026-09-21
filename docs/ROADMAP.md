@@ -7,6 +7,7 @@ Orientativo; el orden puede cambiar según lo que aprendamos con los primeros us
 - Rediseño completo de la app (hucha en una sola pantalla, gasto en cuatro preguntas).
 - Editar y eliminar gastos; salir de una hucha, ceder la administración, cerrar.
 - Comprobantes: foto del ticket o imagen en cada gasto.
+- Ajuste de gastos al final (cuadrar al cerrar) o al momento; reparto por artículos.
 
 ## Ahora
 
@@ -16,7 +17,6 @@ Orientativo; el orden puede cambiar según lo que aprendamos con los primeros us
 
 ## Después
 
-- Reparto por artículos dentro de un gasto.
 - Liquidación al cerrar la hucha con el mínimo de transferencias.
 - Versión beta cerrada.
 

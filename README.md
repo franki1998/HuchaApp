@@ -71,11 +71,15 @@ Más en [docs/TECH.md](docs/TECH.md).
 | ---------------------------------------- | ------------------------------------------------ | -------------------------------------------------- |
 | ![Huchas](assets/screenshots/huchas.png) | ![Resumen](assets/screenshots/resumen-hucha.png) | ![Nuevo gasto](assets/screenshots/nuevo-gasto.png) |
 
-| Detalle de un gasto con ticket         | Actividad                                      |
-| -------------------------------------- | ---------------------------------------------- |
-| ![Gasto](assets/screenshots/gasto.png) | ![Actividad](assets/screenshots/actividad.png) |
+| Detalle de un gasto con ticket         | Actividad                                      | Reparto por artículos                                    |
+| -------------------------------------- | ---------------------------------------------- | -------------------------------------------------------- |
+| ![Gasto](assets/screenshots/gasto.png) | ![Actividad](assets/screenshots/actividad.png) | ![Artículos](assets/screenshots/gasto-por-articulos.png) |
 
-Capturas de la versión interna en desarrollo (emulador Android, datos de prueba; 18 de septiembre de 2026).
+| Cerrar la hucha                                |
+| ---------------------------------------------- |
+| ![Cerrar](assets/screenshots/cerrar-hucha.png) |
+
+Capturas de la versión interna en desarrollo (emulador Android, datos de prueba; 21 de septiembre de 2026).
 
 ## Principios
 
