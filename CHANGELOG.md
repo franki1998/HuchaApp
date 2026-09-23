@@ -2,6 +2,17 @@
 
 Cambios visibles para usuarios. Las fechas son de desarrollo, no de publicación en tiendas.
 
+## 2026-09-23 — Hucha se pone oscura y ya se puede probar sin cuenta
+
+- **Nueva estética oscura** en toda la app: fondo profundo, tarjetas que agrupan sin
+  recargar y el verde de Hucha reservado a lo que puedes tocar. Los importes son lo
+  primero que se lee en cada pantalla.
+- **Acciones rápidas** en cada hucha: añadir gasto sigue a un toque, y aportar o invitar
+  están justo al lado. Una hucha cerrada ya no enseña botones que no llevan a nada.
+- **Modo demo**: una versión que funciona sin conexión y sin cuenta, con un viaje de
+  ejemplo, para poder enseñar la app y recoger opiniones. Los pagos siguen simulados.
+- Castellano más natural en toda la app y menos pasos para lo de siempre.
+
 ## 2026-09-21 — Elegir quién participa en cada compra y cuadrar al final
 
 - Cada hucha elige cómo ajustar los gastos: **al final** (vais acumulando y, al cerrar

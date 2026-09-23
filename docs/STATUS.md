@@ -1,6 +1,6 @@
 # Estado del desarrollo
 
-Actualizado: 2026-09-21
+Actualizado: 2026-09-23
 
 | Área                                                         | Estado                                               |
 | ------------------------------------------------------------ | ---------------------------------------------------- |
@@ -13,8 +13,10 @@ Actualizado: 2026-09-21
 | Comprobantes (tickets) en cada gasto                         | Implementado                                         |
 | Ajuste al final o al momento; cierre con liquidación final   | Implementado                                         |
 | Reparto por artículos                                        | Implementado                                         |
-| Notificaciones                                               | Parcial (servidor listo; entrega en móvil pendiente) |
-| Pruebas en dispositivos físicos                              | En curso                                             |
+| Notificaciones                                               | Implementado y probado en un Android real            |
+| Interfaz oscura en toda la app                               | Implementado                                         |
+| Versión de demostración sin conexión                         | Implementado                                         |
+| Pruebas en dispositivos físicos                              | Hechas en un Android real                            |
 | Publicación en tiendas                                       | Sin fecha                                            |
 
 Nada de lo anterior está aún disponible públicamente en App Store o Google Play.
